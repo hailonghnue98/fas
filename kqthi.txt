@@ -1,0 +1,9 @@
+Mã số,Họ và tên,Windows,Word,Excel
+T001,Nguyễn Văn Ban,7,5,6
+T002,Nguyễn Duy Dương,9,8,9
+D003,Hoàng Quốc Bảo,8,7,
+T004,Võ Quốc Việt,8,,5
+D005,Hoàng Bảo Trị,10,9,8
+K006,Bùi Đăng Khoa,,10,2
+K007,Vũ Thị Thu Hà,10,,7
+T008,Nguyễn Thị Kim Loan,3,8,6
