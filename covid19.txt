@@ -1,13 +1,13 @@
-STT;Quận huyện;Ngày 22/03;Ngày 23/03;Tổng số ca nhiễm;Ghi chú
-1;Gia Lâm;805;767;1572;Mức 3
-1;Gia Lâm;805;767;1572;Mức 3
-2;Hà Đông;689;;;Mức 3
-3;Thanh Xuân;1036;;;Mức 2
-4;Nam Từ Liêm;705;;1450;Mức 3
-5;Hoàng Mai;996;1008;2004;Mức 2
-6;Đông Anh;982;812;1794;Mức 3
-7;Đống Đa;-1562;1474;3036;Mức 1
-8;Hai Bà Trưng;719;755;1474;
-8;Hai Bà Trưng;719;755;1474;Mức 3
-9;Thanh Trì;650;614;1264;Mức 3
-10;Ba Đình;-571;583;1154;Mức 3
+STT,Quận huyện,Ngày 22/03,Ngày 23/03,Tổng số ca nhiễm,Ghi chú
+1,Gia Lâm,805,767,1572,Mức 3
+1,Gia Lâm,805,767,1572,Mức 3
+2,Hà Đông,689,,,Mức 3
+3,Thanh Xuân,1036,,,Mức 2
+4,Nam Từ Liêm,705,,1450,Mức 3
+5,Hoàng Mai,996,1008,2004,Mức 2
+6,Đông Anh,982,812,1794,Mức 3
+7,Đống Đa,-1562,1474,3036,Mức 1
+8,Hai Bà Trưng,719,755,1474,
+8,Hai Bà Trưng,719,755,1474,Mức 3
+9,Thanh Trì,650,614,1264,Mức 3
+10,Ba Đình,-571,583,1154,Mức 3
